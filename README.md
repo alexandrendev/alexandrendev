@@ -1,6 +1,6 @@
 ### Hello!! 👋
 
-I'm Alexandre and currently enrolled in a Bachelor's degree in Information Systems at Instituto Federal Goiano. I'm focused on studying backend development, and my main languages and tools include:
+I'm Alexandre and currently enrolled in a Bachelor's degree in Sistemas de Informação at Instituto Federal Goiano. I'm focused on studying backend development, and my main languages and tools include:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
