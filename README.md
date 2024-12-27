@@ -5,17 +5,20 @@ I'm Alexandre and currently enrolled in a Bachelor's degree in Sistemas de Infor
 I'm a Software Developer specializing in backend development.
 
 # Languages and Tools
-
-I have experience with the following language and tools:
-###
+#### Main Stack:
 <div align="center" styles="padding: 50px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="60" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="angularjs logo"  />
+</div>
+
+
+I have experience with the following language and tools:
+###
+<div align="center" styles="padding: 50px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="60" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
   <img width="12" />
