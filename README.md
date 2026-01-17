@@ -5,7 +5,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=alexandrendev.alexandrendev&"  />
 </div>
 
-
 Hi, I'm Alexandre — Software Developer focused on backend development and system architecture.
 
 
