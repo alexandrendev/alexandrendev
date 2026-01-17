@@ -11,7 +11,7 @@ Hi, I'm Alexandre — Software Developer focused on backend development and syst
 
 - → Experienced in building and maintaining production web systems
 - → Working with REST APIs, frontend decoupling and architectural modernization
-- → Currently involved in the modernization of a large-scale digital service platform used by 100,000+ users
+- → Currently involved in the modernization of a digital service platform used by 100,000+ users
 - → Bachelor's student in Information Systems at Instituto Federal Goiano
 
 ###
