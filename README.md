@@ -1,4 +1,8 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Alexandre%20Neves&fontSize=42&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&desc=Backend%20Jr%20Developer&descSize=20&descAlign=50&descAlignY=72&textBg=false&color=gradient"  />
+</div>
+
+<!-- <h1 align="center">Hey 👋What's Up?</h1> -->
 
 ###
 <div align="center">
