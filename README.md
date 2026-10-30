@@ -1,58 +1,68 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Alexandre%20Neves&fontSize=42&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&desc=Backend%20Jr%20Developer&descSize=20&descAlign=50&descAlignY=72&textBg=false&color=gradient"  />
-</div>
-
-<!-- <h1 align="center">Hey 👋What's Up?</h1> -->
-
-###
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=alexandrendev.alexandrendev&"  />
+
+# Alexandre
+
+**Software Developer · Backend Development · PHP & Laravel**
+
+Building software, understanding systems.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandrendev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/alexandre._.dev/)
+
 </div>
 
+---
 
-Hi, I'm Alexandre — Software Developer focused on backend development and system architecture.
+### About me
 
+I'm a software developer working primarily with **PHP and Laravel**, with a growing interest in software architecture and distributed systems.
 
-- → Experienced in building and maintaining production web systems
-- → Working with REST APIs, frontend decoupling and architectural modernization
-- → Currently involved in the modernization of a digital service platform
-- → Bachelor's student in Information Systems at Instituto Federal Goiano
+I currently work on a digital communication platform, developing REST APIs, integrating external services, and helping modernize an existing Laravel application toward a decoupled architecture with React and TypeScript.
 
-###
-My Main Stack
+Most of my work involves maintaining production systems, solving integration problems, and improving existing code.
+
+I'm also completing my Bachelor's degree in **Information Systems at Instituto Federal Goiano**.
+
+### Tools & Technologies
+
+**Backend & Databases**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="38" height="38" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="38" height="38" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="38" height="38" alt="PostgreSQL" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="38" height="38" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="38" height="38" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="38" height="38" alt="Tailwind CSS" />
+</p>
+
+**Infrastructure & Tools**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="38" height="38" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="38" height="38" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="38" height="38" alt="Git" />
+</p>
+
+### GitHub Activity
+
+<div align="center">
+  <a href="https://github.com/alexandrendev">
+    <img src="https://ghchart.rshah.org/ff006e/alexandrendev" width="100%" alt="Alexandre's GitHub contribution graph" />
+  </a>
+</div>
+
 ---
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
 
-###
-------
+**Find me elsewhere**
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexandrendev&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+[LinkedIn](https://www.linkedin.com/in/alexandrendev) · [Instagram](https://www.instagram.com/alexandre._.dev/)
 
-###
-## Connect with me!
-<div align="left">
-  <a href="https://www.linkedin.com/in/alexandrendev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <!-- <a href="https://discord.gg/alexandre.php" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a> -->
-  <a href="https://www.instagram.com/alexandre._.dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=yellow&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
 </div>
